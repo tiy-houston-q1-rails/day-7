@@ -1,6 +1,8 @@
 Day 7 - Fun and Games
 ===============
 
+![img](https://s3.amazonaws.com/giphymedia/media/CWLR2GMS9chhK/giphy.gif)
+
 At this point, you should be able to define classes that create objects with
 both behavior and data. The cononical version of this is the Rock Paper Scissors
 implementation.
